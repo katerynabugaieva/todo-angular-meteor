@@ -20,5 +20,8 @@
       "server": "server/main.js"
     },
     "testModule": "tests/main.js"
+  },
+  "devDependencies": {
+    "angular-mocks": "^1.7.9"
   }
 }
